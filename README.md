@@ -16,3 +16,4 @@
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hritwik-varma/)
+![Profile Views](https://komarev.com/ghpvc/?username=Wik-Hrit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
