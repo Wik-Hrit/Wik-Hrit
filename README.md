@@ -18,4 +18,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hritwik-varma/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Wik-Hrit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![](https://u8views.com/api/v1/github/profiles/{your_numeric_id}/views/day-week-month-total-count.svg)](https://u8views.com/github/Wik-Hrit)
-claude mcp add --transport http github https://api.githubcopilot.com/mcp/
+
