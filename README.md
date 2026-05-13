@@ -10,9 +10,9 @@
 - **Tools:** Git, Docker, FastAPI, LangChain, FAISS
 
 ## 📌 Featured Projects
-- [MovRec](https://github.com/Wik-Hrit/MovRec) — Neural Collaborative Filtering for Movie Recommendations
-- [Air Quality Forecasting](https://github.com/Wik-Hrit/Air-Quality-Forecasting_ML) — LSTM/BiLSTM Time-Series Model
-- [Sentiment Analysis](https://github.com/Wik-Hrit/Sentiment-Analysis-NLP_ML) — BiLSTM + BERT + Transformer
+- [LLM-Watermarking](https://github.com/Wik-Hrit/LLM-Watermarking) — Kirchenbauer Green-List Scheme, Z-Test Detection, Truncation Attack Analysis
+- [ResearchRAG](https://github.com/Wik-Hrit/ResearchRAG) — RAG Pipeline for Research Papers using LangChain, FAISS, and Groq
+- [BERT-Sentiment-Classifier](https://github.com/Wik-Hrit/Sentiment-Analysis-NLP_ML) — BERT Fine-Tune, 93.2% Accuracy on 50k Samples
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hritwik-varma/)
